@@ -1,0 +1,14 @@
+{
+  "name": "komodo-test",
+  "version": "1.0.0",
+  "description": "check object if contain a value",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
